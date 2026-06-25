@@ -54,12 +54,6 @@ This picture depicts that  auto email sent
 
 📥 Getting Started
 Clone the repository:
-
-Bash
-git clone https://github.com/YOUR_USERNAME/SmartStock-API-implementation.git
-cd SmartStock-API-implementation
-Setup Virtual Environment:
-
 Bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate

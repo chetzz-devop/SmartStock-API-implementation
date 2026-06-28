@@ -4,7 +4,7 @@
 
 SmartStock API is a professional Django REST Framework-based inventory management system designed to help businesses track stock items, manage suppliers, detect low stock situations, and send restock requests automatically. The project is built to support efficient inventory operations with a clean API structure and secure authentication.
 
-This solution demonstrates practical backend development skills, including database modeling, API development, authentication, validation, email integration, and deployment-ready project structure.
+This solution demonstrates practical backend development skills, including database modeling, API development and Manual Testing of API using Insomnia, authentication, validation, email integration, and deployment-ready project structure.
 
 ---
 
@@ -145,6 +145,14 @@ Follow these steps to run the project locally:
 3. Install the required dependencies
 4. Apply database migrations
 5. Run the development server
+
+### Screen Shots of Project
+<img width="1918" height="827" alt="Screenshot 2026-06-25 175734" src="https://github.com/user-attachments/assets/7e71189b-a7bd-4501-80b5-abe0fa031134" />
+<img width="1918" height="605" alt="Screenshot 2026-06-25 175901" src="https://github.com/user-attachments/assets/217554e4-55ca-4ae0-b952-a38dcd0454b6" />
+VALIDATION
+<img width="1836" height="363" alt="Screenshot 2026-06-25 180016" src="https://github.com/user-attachments/assets/4accff15-8d6a-40d4-b337-054dd1f20333" />
+TO SEND MAIL IF STOCKS ARE LOW 
+<img width="1578" height="847" alt="Screenshot 2026-06-25 180115" src="https://github.com/user-attachments/assets/789d42c5-991a-4806-a04e-fc64431ec958" />
 
 ### Example Setup
 
